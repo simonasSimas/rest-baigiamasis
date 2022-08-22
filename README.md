@@ -1,6 +1,6 @@
 Forms Rest-Api
 
-It is a Rest-Api created in order to have a possiblity creating forms with varying answer formats.
+A Rest-Api used to create forms with varying answer formats.
 
 Functions are:
 Create a new Form;
